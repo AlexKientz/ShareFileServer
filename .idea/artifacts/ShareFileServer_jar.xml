@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ShareFileServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShareFileServer_jar</output-path>
+    <root id="archive" name="ShareFileServer.jar">
+      <element id="module-output" name="ShareFileServer" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/ShareFileServer/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
